@@ -1,0 +1,3 @@
+[submodule "submodule/sample"]
+	path = submodule/sample
+	url = https://github.com/LarryDpk/pkslow-samples
